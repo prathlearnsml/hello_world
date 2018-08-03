@@ -1,2 +1,3 @@
 # hello_world
 Start Project
+Hello people ! These are my first lines on GitHub. Hoping that I write many many more... 
